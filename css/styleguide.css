@@ -1,0 +1,19 @@
+:root { 
+  --black: #000000;
+  --mercury: #e4e4e4;
+  --white: #ffffff;
+ 
+  --font-size-l: 60px;
+  --font-size-m: 40px;
+  --font-size-xl: 85px;
+  --font-size-xxl: 90px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-medium-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

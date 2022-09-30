@@ -1,0 +1,459 @@
+/* screen - frame-1 */
+
+.frame-1 {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 2160px;
+  min-width: 1920px;
+}
+
+.frame-1 .template-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 1538px;
+  min-width: 1920px;
+}
+
+.frame-1 .flex-col {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -622px;
+  min-height: 2160px;
+  padding: 38.9px 0;
+  width: 1920px;
+}
+
+.frame-1 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 961px;
+  width: 1816px;
+}
+
+.frame-1 .flex-row {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  height: 159px;
+  min-width: 1810px;
+}
+.frame-1 .profile-picture {
+  
+  image-resolution: from-image 500dpi;
+  min-height: 159px;
+  border-radius: 60%;
+  height: 150px;
+  width: 150px;
+  margin-top: 0px;
+  object-fit: cover;
+  object-position: center right;
+}
+
+.frame-1 .logo {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 159px;
+  width: 217px;
+}
+
+.frame-1 .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1032px;
+  margin-top: 25.44px;
+  min-height: 65px;
+  width: 110px;
+}
+
+.frame-1 .work {
+  letter-spacing: 0;
+  min-height: 53px;
+  width: 102px;
+}
+
+.frame-1 .line-1 {
+  height: 3px;
+  margin-top: 10px;
+  width: 110px;
+}
+
+.frame-1 .about {
+  letter-spacing: 0;
+  margin-left: 20px;
+  margin-top: 12.82px;
+  min-height: 53px;
+  width: 102px;
+}
+
+.frame-1 .about {
+  letter-spacing: 0;
+  margin-top: 12.82px;
+  min-height: 53px;
+  width: 128px;
+}
+
+.frame-1 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border-radius: 15px;
+  display: flex;
+  height: 79px;
+  margin-top: 11.76px;
+  min-width: 192px;
+  padding: 12.6px 21px;
+}
+
+.frame-1 .resume {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 53px;
+  width: 140px;
+}
+
+.frame-1 .overlap-group4 {
+  height: 753px;
+  margin-top: 48px;
+  position: relative;
+  width: 1525px;
+}
+
+.frame-1 .rectangle-3 {
+  border: 1px none;
+  border-radius: 15px;
+  height: 753px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 1172px;
+}
+
+.frame-1 .hi-im-diego-a {
+  margin:0em;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  left: 6px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 33px;
+  width: 1519px;
+}
+
+.frame-1 .thanks-for-stopping {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 396px;
+  width: 1314px;
+}
+
+.frame-1 .arrow-1 {
+  height: 66px;
+  left: 890px;
+  position: absolute;
+  top: 626px;
+  width: 37px;
+}
+
+.frame-1 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 545px;
+  margin-left: 17.0px;
+  margin-top: 9px;
+  min-width: 1781px;
+}
+
+.image .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 545px;
+  width: 544px;
+}
+
+.frame-1 .overlap-group6 {
+  height: 326px;
+  position: relative;
+  width: 544px;
+}
+
+.frame-1 .rectangle-28 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 95px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.frame-1 .rectangle-36 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 111px;
+  width: 544px;
+}
+
+.frame-1 .rectangle-37 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 219px;
+  width: 544px;
+}
+
+.frame-1 .project-name-1 {
+  left: 25px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 310px;
+}
+
+.frame-1 .project-name-2 {
+  left: 25px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 136px;
+  width: 310px;
+}
+
+.frame-1 .project-name-3 {
+  left: 25px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 238px;
+  width: 310px;
+}
+
+.frame-1 .overlap-group7 {
+  height: 106px;
+  margin-top: 1px;
+  position: relative;
+  width: 544px;
+}
+
+.frame-1 .rectangle-38 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.frame-1 .project-name {
+  left: 25px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 18px;
+  width: 310px;
+}
+
+.frame-1 .overlap-group5 {
+  height: 106px;
+  margin-top: 6px;
+  position: relative;
+  width: 544px;
+}
+
+.frame-1 .rectangle-39 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.frame-1 .flex-col-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 66px;
+  min-height: 524px;
+  width: 544px;
+}
+
+.frame-1 .overlap-group-container-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 544px;
+}
+
+.frame-1 .overlap-group10 {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  height: 265px;
+  justify-content: flex-end;
+  min-width: 268px;
+  padding: 98px 55px;
+}
+
+.frame-1 .image {
+  letter-spacing: 0;
+  min-height: 52px;
+  opacity: 0.5;
+  width: 130px;
+}
+
+.frame-1 .overlap-group8 {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  height: 265px;
+  justify-content: flex-end;
+  margin-left: 23px;
+  min-width: 253px;
+  padding: 104px 60px;
+}
+
+.frame-1 .overlap-group3 {
+  height: 241px;
+  margin-top: 18px;
+  position: relative;
+  width: 544px;
+}
+
+.frame-1 .rectangle-31 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 71px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.frame-1 .rectangle-32 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 152px;
+  left: 0;
+  position: absolute;
+  top: 89px;
+  width: 544px;
+}
+
+.frame-1 .project-description {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 140px;
+  width: 396px;
+}
+
+.frame-1 .project-name-4 {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 310px;
+}
+
+.frame-1 .overlap-group-container-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 78px;
+  min-height: 535px;
+  width: 549px;
+}
+
+.frame-1 .overlap-group9 {
+  align-items: center;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  height: 291px;
+  min-width: 544px;
+  padding: 0 209px;
+}
+
+.frame-1 .image-1 {
+  letter-spacing: 0;
+  min-height: 53px;
+  opacity: 0.5;
+  width: 126px;
+}
+
+.frame-1 .overlap-group1 {
+  height: 230px;
+  margin-top: 14px;
+  position: relative;
+  width: 549px;
+}
+
+.frame-1 .rectangle-34 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 104px;
+  left: 5px;
+  position: absolute;
+  top: 0;
+  width: 544px;
+}
+
+.frame-1 .rectangle-35 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 104px;
+  left: 0;
+  position: absolute;
+  top: 115px;
+  width: 544px;
+}
+
+.frame-1 .project-name-5 {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 310px;
+}
+
+.frame-1 .project-description-1 {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 142px;
+  width: 396px;
+}
