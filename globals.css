@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:700,500");
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  height: fit-content;
+  width:fit-content;
+}
+
+* {
+  box-sizing: border-box;
+  image-resolution: from-image 400dpi;
+  image-rendering:optimizeQuality;
+  image-orientation: from-image;
+  border-image:fill;
+  object-fit: cover;
+}

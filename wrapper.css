@@ -1,0 +1,359 @@
+
+.wrapper {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3256px;
+  overflow: hidden;
+  padding: 0 189px;
+  width: 2601px;
+}
+
+.wrapper .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 179px;
+  margin-right: 18.03px;
+  margin-top: 168px;
+  min-width: 2109px;
+}
+
+.wrapper .name {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  letter-spacing: 0;
+  min-height: 127px;
+  text-decoration: underline;
+  width: 543px;
+}
+
+.wrapper .about_btn {
+  align-items: center;
+  border: 5px none;
+  border-radius: 14px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-left: 1027px;
+  margin-top: 6px;
+  padding: 16px 17px;
+  width: fit-content;
+}
+
+.wrapper .about {
+  letter-spacing: 0;
+  margin-top: -2.50px;
+  width: fit-content;
+}
+
+.wrapper .work_btn {
+  align-items: flex-end;
+  border: 1px none;
+  display: flex;
+  height: 80px;
+  margin-left: 29px;
+  margin-top: 6px;
+  min-width: 143px;
+}
+
+.wrapper .work {
+  letter-spacing: 0;
+  margin-bottom: -15.0px;
+  min-height: 80px;
+  width: 143px;
+}
+
+.wrapper .resume1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  border: 1px none;
+  border-radius: 15px;
+  display: flex;
+  height: 92px;
+  margin-left: 17px;
+  min-width: 208px;
+  padding: 19px 23px;
+}
+
+.wrapper .resume {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 52px;
+  width: 161px;
+}
+
+.wrapper .hi-im-a-student {
+  align-self: flex-start;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 48px;
+  margin-top: 84px;
+  min-height: 350px;
+  width: 1822px;
+}
+
+.wrapper .about_me_page {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  height: 760px;
+  margin-left: 98.0px;
+  margin-top: 1px;
+  padding: 2px 20px;
+  width: 2015px;
+}
+
+.wrapper .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 591px;
+  width: 1134px;
+}
+
+.wrapper .about-me {
+  letter-spacing: 0;
+  min-height: 70px;
+  text-decoration: underline;
+}
+
+.wrapper .nice-to-meet-you-i {
+  letter-spacing: 0;
+  margin-top: 93px;
+  min-height: 428px;
+  width: 1134px;
+}
+
+.wrapper .rectangle-41 {
+  align-self: center;
+  height: 661px;
+  margin-left: 29px;
+  margin-top: 47.0px;
+  width: 811px;
+}
+
+.wrapper .work_page {
+  align-items: flex-start;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 918px;
+  margin-left: 51.0px;
+  margin-top: 117px;
+  padding: 2px 18px;
+  width: 1964px;
+}
+
+.wrapper .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 618px;
+  width: 1832px;
+}
+
+.wrapper .overlap-group1 {
+  height: 252px;
+  position: relative;
+  width: 1465px;
+}
+
+.wrapper .thanks-for-stopping {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 1465px;
+}
+
+.wrapper .arrow-1 {
+  height: 82px;
+  left: 482px;
+  position: absolute;
+  top: 170px;
+  width: 1px;
+}
+
+.wrapper .flex-row-1 {
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 51px;
+  min-width: 1783px;
+}
+
+.wrapper .rectangle-38 {
+  height: 304px;
+  width: 867px;
+}
+
+.wrapper .rectangle-37 {
+  height: 315px;
+  margin-left: 154px;
+  width: 762px;
+}
+
+.wrapper .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 252px;
+  margin-right: 13.81px;
+  margin-top: 17px;
+  min-width: 1865px;
+}
+
+.wrapper .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 250px;
+  width: 866px;
+}
+
+.wrapper .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  height: 74px;
+  min-width: 866px;
+  padding: 11.5px 27.1px;
+}
+
+.wrapper .gitlet {
+  letter-spacing: 0;
+  min-height: 49px;
+  width: 406px;
+}
+
+.wrapper .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  border-radius: 15px;
+  display: flex;
+  height: 159px;
+  margin-top: 17px;
+  min-width: 866px;
+  padding: 11.0px 10.7px;
+}
+
+.wrapper .gitlet-is-a-version {
+  letter-spacing: 0;
+  min-height: 134px;
+  width: 844px;
+}
+
+.wrapper .overlap-group {
+  align-self: flex-end;
+  height: 250px;
+  margin-left: 132px;
+  position: relative;
+  width: 866px;
+}
+
+.wrapper .rectangle-31 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 74px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 866px;
+}
+
+.wrapper .rectangle-32 {
+  background-color: var(--mercury);
+  border: 1px none;
+  border-radius: 15px;
+  height: 159px;
+  left: 0;
+  position: absolute;
+  top: 91px;
+  width: 866px;
+}
+
+.wrapper .ataxx-is-a-two-perso {
+  left: 22px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 96px;
+  width: 834px;
+}
+
+.wrapper .ataxx {
+  left: 35px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 494px;
+}
+
+.wrapper .contact {
+  align-items: center;
+  align-self: flex-end;
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 423px;
+  margin-top: 276px;
+  overflow: hidden;
+  padding: 20px 0;
+  width: 2141px;
+}
+
+.wrapper .vector-1 {
+  height: 1px;
+  margin-left: 1.5px;
+  object-fit: cover;
+  width: 2140px;
+}
+
+.wrapper .place {
+  letter-spacing: 0;
+  margin-right: 26.0px;
+  margin-top: 61px;
+  min-height: 47px;
+  min-width: 141px;
+}
+
+.wrapper .diegomaciasberkeleyedu {
+  letter-spacing: 0;
+  margin-top: 41px;
+  min-height: 47px;
+  min-width: 503px;
+  text-decoration: underline;
+}
+
+.wrapper .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 11.0px;
+  margin-top: 30px;
+  min-width: 270px;
+}
+
+.wrapper .rectangle-42 {
+  height: 119px;
+  object-fit: cover;
+  width: 113px;
+}
+
+.wrapper .rectangle-43 {
+  height: 119px;
+  margin-left: 44px;
+  object-fit: cover;
+  width: 113px;
+}
