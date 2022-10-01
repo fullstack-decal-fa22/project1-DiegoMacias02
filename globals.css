@@ -14,4 +14,6 @@
   image-orientation: from-image;
   border-image:fill;
   object-fit: cover;
+  height: fit-content;
+  width:fit-content;
 }
